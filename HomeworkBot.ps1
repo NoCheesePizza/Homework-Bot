@@ -5,7 +5,7 @@ $chat_george = "confidential"
 $chat_coders = "confidential"
 
 # useful files and directories
-$sensitive_file = "C:\Users\Scorax\Documents\Totally not an important file.txt" # not included in repo
+$sensitive_file = "C:\Users\Scorax\Documents\Totally not an important file.txt" # not included in repo (contains my Moodle username and password)
 $scripts_path = "C:\Users\Scorax\Documents\Scripts" 
 Set-Location $scripts_path
 
